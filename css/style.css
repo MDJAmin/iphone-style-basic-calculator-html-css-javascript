@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 :root{
-    --primaryClr:#33ff00;
-    --secondaryClr:#00b545;
+    --primaryClr:#ffffff;
+    --secondaryClr:#dddddd;
     --thirdClr:#393E46;
     --txtClr:#222831;
 }
