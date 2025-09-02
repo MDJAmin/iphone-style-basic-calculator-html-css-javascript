@@ -72,6 +72,10 @@ body {
   opacity: 0.5;
 }
 
+#num3, #num6, #num9, #point, #minus {
+background-color: orange;
+}
+
 .MDJAminDiv {
   z-index: 4444;
   position: fixed;

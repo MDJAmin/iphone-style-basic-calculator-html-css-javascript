@@ -34,7 +34,7 @@ equalBtn.addEventListener("click", () => {
     screenTxt.textContent = result;
     currentInput = result.toString();
   } catch (error) {
-    screenTxt.textContent = "خطا";
+    screenTxt.textContent = "error";
     currentInput = "";
   }
 });
